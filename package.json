@@ -1,7 +1,7 @@
 {
-  "name": "06-jobs-api",
+  "name": "node-jobs-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application that keeps track of the jobs you've applied to during your job search.",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -19,7 +19,7 @@
     "http-status-codes": "^2.1.4",
     "joi": "^17.4.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.2",
+    "mongoose": "^6.0.13",
     "rate-limiter": "^0.2.0",
     "swagger-ui-express": "^4.1.6",
     "xss-clean": "^0.1.1",
